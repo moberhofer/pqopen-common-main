@@ -1,6 +1,8 @@
 # pqopen-common-main
 Welcome to the PQopen Projects Overview Repository. Here you will find all the information about the project and its parts.
 
+![device-variants](https://github.com/moberhofer/pqopen-common-main/assets/31564166/55fa3a01-d60b-477e-a840-ac5b93ea4c35)
+
 ## Project Goals
 - Creation of knowledgebase around measurement, data processing and analysis of electrical networks
 - Use simple equipment for complex tasks and processes
@@ -8,6 +10,7 @@ Welcome to the PQopen Projects Overview Repository. Here you will find all the i
 
 ## What is PQopen?
 PQopen is the Open Source Power Quality and Energy Analyzer. It consists of a measurement device and a server application for data storage and visualisation.
+![pqopen-system-overview](https://github.com/moberhofer/pqopen-common-main/assets/31564166/f125ae34-3085-4a5e-a91e-04c074153f8e)
 
 ### PQopen Device
 It can be used in power systems with 230V and 120V nominal voltage and measures parameters according to IEC 61000-4-30 and additionally power and energy.
